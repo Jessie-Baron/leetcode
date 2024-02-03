@@ -24,8 +24,8 @@ def twoSum(nums, target):
 nums1, target1 = [2, 7, 11, 15], 9
 print(twoSum(nums1, target1))  # Output: [0, 1]
 
-# nums2, target2 = [3, 2, 4], 6
-# print(twoSum(nums2, target2))  # Output: [1, 2]
+nums2, target2 = [3, 2, 4], 6
+print(twoSum(nums2, target2))  # Output: [1, 2]
 
-# nums3, target3 = [3, 3], 6
-# print(twoSum(nums3, target3))  # Output: [0, 1]
+nums3, target3 = [3, 3], 6
+print(twoSum(nums3, target3))  # Output: [0, 1]
